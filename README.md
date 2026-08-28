@@ -1,29 +1,14 @@
 <div align="center">
 
-```
-                                .------------------.
-                               /  .-.          .-.  \
-                              |  ( ●)          (● )  |
-                              |   '-'   ______  '-'   |
-                               \      .'      '.      /
-                                '.   /  OCTOCAT \   .'
-                                  '-|  ,------.  |-'
-                                    |  |  git  |  |
-                                    |  '------'  |
-                                    '-.        .-'
-                                       '------'
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:181717&height=220&section=header&text=OCTOCAT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GitHub's%20original%20mascot%20%7C%20Still%20merging%20since%202011&descAlignY=55&descSize=18" width="100%"/>
 
-<pre>
- ██████╗  ██████╗████████╗ ██████╗  ██████╗ █████╗ ████████╗
-██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗╚══██╔══╝
-██║   ██║██║        ██║   ██║   ██║██║     ███████║   ██║
-██║   ██║██║        ██║   ██║   ██║██║     ██╔══██║   ██║
-╚██████╔╝╚██████╗   ██║   ╚██████╔╝╚██████╗██║  ██║   ██║
- ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝
-</pre>
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;octocat;%24+status;Still+forking+Hello-World+since+2011+%F0%9F%90%99&font=Fira+Code&center=true&width=550&height=50&color=58A6FF&vCenter=true&size=22&pause=1500"/>
 
-### GitHub's original mascot, running its very first repositories.
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=octocat&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/octocat?style=for-the-badge&color=58A6FF&labelColor=181717)
+![Stars](https://img.shields.io/github/stars/octocat?style=for-the-badge&color=58A6FF&labelColor=181717)
 
 </div>
 
@@ -32,20 +17,23 @@
 ## `~/whoami`
 
 ```bash
-$ whoami
-octocat
-
-$ role
-GitHub's mascot & the internet's most-forked test account
-
-$ focus
-Version control • Open source • Keeping Hello-World alive
-
-$ currently_building
-The repos every developer's first pull request touches
-
-$ status
-Still merging, since 2011 🐙
+┌──────────────────────────────────────────────┐
+│  $ whoami                                     │
+│  octocat                                      │
+│                                                │
+│  $ role                                       │
+│  GitHub's mascot & the internet's most-forked │
+│  test account                                 │
+│                                                │
+│  $ focus                                      │
+│  Version control • Open source • Hello-World  │
+│                                                │
+│  $ currently_building                         │
+│  The repos every dev's first PR touches       │
+│                                                │
+│  $ status                                     │
+│  Still merging, since 2011 🐙                  │
+└──────────────────────────────────────────────┘
 ```
 
 <br>
@@ -54,18 +42,42 @@ Still merging, since 2011 🐙
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="octocat's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="octocat's GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true" alt="octocat's streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" alt="octocat's streak stats" width="90%"/>
 
 </div>
 
-> These cards pull live numbers directly from the GitHub API whenever this profile is viewed — nothing here is a static or guessed figure.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution activity graph" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+
+</div>
+
+> These cards pull live numbers straight from the GitHub API on every view — nothing here is static or guessed.
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%"/>
+
+<sub>Generated by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — turns the contribution graph into a snake animation each night.</sub>
+
+</div>
 
 <br>
 
@@ -95,12 +107,21 @@ These are the account's original, best-known repositories — the ones millions 
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,ruby,markdown,bash,vim&theme=dark" alt="Tech stack icons"/>
 
 </div>
+
+<br>
+
+## 🎯 Current Focus
+
+```
+Currently:
+→ Maintaining     Hello-World — the first repo every new dev forks
+→ Teaching        the fork → edit → pull request workflow
+→ Exploring       new ways to onboard first-time contributors
+→ Open to         being forked, starred, and cloned (always)
+```
 
 <br>
 
