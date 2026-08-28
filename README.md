@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:181717&height=220&section=header&text=OCTOCAT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GitHub's%20original%20mascot%20%7C%20Still%20merging%20since%202011&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=210&section=header&text=MAYANK4CODE&fontSize=58&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Learning%20in%20public%20%7C%20DSA%20%C2%B7%20ML%20%C2%B7%20Web%20Dev&descAlignY=58&descSize=17&descColor=cbd5e1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;octocat;%24+status;Still+forking+Hello-World+since+2011+%F0%9F%90%99&font=Fira+Code&center=true&width=550&height=50&color=58A6FF&vCenter=true&size=22&pause=1500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;Mayank4code;%24+building;AI+%2B+ML+%2B+DSA+prep+tools;%24+status;Shipping+one+small+project+at+a+time+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=70&color=58A6FF&vCenter=true&size=20&pause=1600"/>
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=octocat&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/octocat?style=for-the-badge&color=58A6FF&labelColor=181717)
-![Stars](https://img.shields.io/github/stars/octocat?style=for-the-badge&color=58A6FF&labelColor=181717)
+![Profile views](https://komarev.com/ghpvc/?username=Mayank4code&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Mayank4code?style=for-the-badge&color=58A6FF&labelColor=0d1117)
 
 </div>
 
@@ -17,23 +16,23 @@
 ## `~/whoami`
 
 ```bash
-┌──────────────────────────────────────────────┐
-│  $ whoami                                     │
-│  octocat                                      │
-│                                                │
-│  $ role                                       │
-│  GitHub's mascot & the internet's most-forked │
-│  test account                                 │
-│                                                │
-│  $ focus                                      │
-│  Version control • Open source • Hello-World  │
-│                                                │
-│  $ currently_building                         │
-│  The repos every dev's first PR touches       │
-│                                                │
-│  $ status                                     │
-│  Still merging, since 2011 🐙                  │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│  $ whoami                                         │
+│  Mayank4code                                      │
+│                                                    │
+│  $ focus                                          │
+│  Data Science • Machine Learning • DSA prep       │
+│                                                    │
+│  $ languages                                      │
+│  Python • JavaScript • C / C++ • HTML / CSS       │
+│                                                    │
+│  $ currently_building                             │
+│  Placement prep tracker, an AI trading system     │
+│  prototype, and small ML training projects        │
+│                                                    │
+│  $ mode                                           │
+│  Learning by shipping small, real projects 🚀      │
+└──────────────────────────────────────────────────┘
 ```
 
 <br>
@@ -42,64 +41,54 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="octocat's GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank4code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="Mayank4code's GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank4code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" alt="octocat's streak stats" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank4code&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" alt="Mayank4code's streak stats" width="90%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank4code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution activity graph" width="95%"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
-
-</div>
-
-> These cards pull live numbers straight from the GitHub API on every view — nothing here is static or guessed.
+> Live cards — pulled straight from the GitHub API each time this page loads.
 
 <br>
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%"/>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark achievement"/>
 
-<sub>Generated by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — turns the contribution graph into a snake animation each night.</sub>
+**Pull Shark** — earned for merged pull requests on GitHub.
 
 </div>
 
 <br>
 
-## 🗂️ Featured Repositories
+## 🗂️ Featured Projects
 
-These are the account's original, best-known repositories — the ones millions of developers have forked, cloned, or opened as their very first pull request.
+Real, original repos — not forks, not filler.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Hello-World&theme=tokyonight&hide_border=true" alt="Hello-World repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Spoon-Knife&theme=tokyonight&hide_border=true" alt="Spoon-Knife repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=git-consortium&theme=tokyonight&hide_border=true" alt="git-consortium repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=boysenberry-repo-1&theme=tokyonight&hide_border=true" alt="boysenberry-repo-1 repo card"/>
-
-</div>
-
-| Repo | What it's for |
+| Project | What it is |
 |---|---|
-| **[Hello-World](https://github.com/octocat/Hello-World)** | The original "first repository" tutorial — the repo GitHub tells every new user to fork. |
-| **[Spoon-Knife](https://github.com/octocat/Spoon-Knife)** | Built to teach the fork → edit → pull request workflow end to end. |
-| **[git-consortium](https://github.com/octocat/git-consortium)** | A test repo used to demonstrate multi-branch and consortium-style collaboration. |
-| **[boysenberry-repo-1](https://github.com/octocat/boysenberry-repo-1)** | Another sandbox repo used in GitHub's own guides and documentation. |
+| **[nexus-ai-trading-system](https://github.com/Mayank4code/nexus-ai-trading-system)** | An AI-driven trading system project — the most ambitious build on the profile. |
+| **[placement-prep-tracker](https://github.com/Mayank4code/placement-prep-tracker)** | A tracker built to organize DSA practice and placement/interview prep. |
+| **[Data-Science-Training-Projects](https://github.com/Mayank4code/Data-Science-Training-Projects)** | A collection of hands-on Data Science training exercises. |
+| **[chatbot](https://github.com/Mayank4code/chatbot)** | A Python-based chatbot project. |
+| **[Habit-Tracker](https://github.com/Mayank4code/Habit-Tracker)** | A JavaScript app for tracking daily habits. |
+| **[meme-generator](https://github.com/Mayank4code/meme-generator)** | A JS-based meme generator. |
+| **[to-do-app-using-python](https://github.com/Mayank4code/to-do-app-using-python)** | A command-line to-do list app in Python. |
+| **[TIC-TAC-TOE-GAME](https://github.com/Mayank4code/TIC-TAC-TOE-GAME)** · **[Rock-paper-Scissors-game](https://github.com/Mayank4code/Rock-paper-Scissors-game)** | Classic browser mini-games — CSS/JS fundamentals in practice. |
+| **[calculator-code-via-dynamic-input](https://github.com/Mayank4code/calculator-code-via-dynamic-input)** · **[c-codes](https://github.com/Mayank4code/c-codes)** · **[Basic-cpp-data-types](https://github.com/Mayank4code/Basic-cpp-data-types)** | C/C++ fundamentals — from *Let Us C* exercises to core data types. |
 
 <br>
 
@@ -107,31 +96,20 @@ These are the account's original, best-known repositories — the ones millions 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,ruby,markdown,bash,vim&theme=dark" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp&theme=dark" alt="Tech stack icons"/>
 
 </div>
 
 <br>
 
-## 🎯 Current Focus
+## 🎯 Currently
 
 ```
 Currently:
-→ Maintaining     Hello-World — the first repo every new dev forks
-→ Teaching        the fork → edit → pull request workflow
-→ Exploring       new ways to onboard first-time contributors
-→ Open to         being forked, starred, and cloned (always)
-```
-
-<br>
-
-## 💭 Philosophy
-
-```
-Fork it.
-Break it in your own sandbox.
-Open the pull request anyway.
-That's how everyone here started.
+→ Learning     Machine Learning fundamentals (Microsoft ML-For-Beginners, ml-basics)
+→ Building     an AI trading system prototype + a placement-prep tracker
+→ Practicing   DSA and core C/C++ concepts
+→ Exploring    collaborative student projects (CivicTrack, padhoBuddy)
 ```
 
 <br>
@@ -140,8 +118,9 @@ That's how everyone here started.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/octocat)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.blog)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank4code)
+
+<sub>Add your LinkedIn / Twitter / portfolio link here — tell me the URLs and I'll drop them in.</sub>
 
 </div>
 
@@ -149,6 +128,6 @@ That's how everyone here started.
 
 <div align="center">
 
-<sub>🐙 Built with Git, forked with pride.</sub>
+<sub>🚀 Learning in public, one commit at a time.</sub>
 
 </div>
