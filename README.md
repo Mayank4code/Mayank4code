@@ -1,17 +1,53 @@
 <div align="center">
 
 <pre>
-        /\_/\
-       ( ^.^ )
-        > ~ <
-       /|   |\
-      (_|   |_)
-            \
-             \
-              \_,,,~~°
+                        @@@@@                   @@@@@
+                        @@@@@@@               @@@@@@@
+                         @@@@@@@@           @@@@@@@@
+                         @@@@@@@@@@       @@@@@@@@@@
+                          @@@@@@@@@@@@@@@@@@@@@@@@@
+                          @@@@@@@@@@@@@@@@@@@@@@@@@
+                           @@@@@@@@@@@@@@@@@@@@@@@
+                           @@@@@@@@@@@@@@@@@@@@@@@
+                            @@@@@@@@@@@@@@@@@@@@@
+                            @@@@@@@@@@@@@@@@@@@@@
+                             @@@   @@@@@@@   @@@
+                            @@@     @@@@@     @@@
+                            @@@  @  @@@@@  @  @@@
+                            @@@  @  @@@@@  @  @@@
+                            @@@@   @@@@@@@   @@@@
+                            @@@@@@@@@@@@@@@@@@@@@
+                             @@@@@@@@@@@@@@@@@@@
+                             @@@@@@@@@@@@@@@@@@@
+                              @@@@@@@@@@@@@@@@@
+                              @@@@@@@@@@@@@@@@@
+                               @@@@@@@@@@@@@@@
+                               @@@@@@@@@@@@@@@
+                             @@@@@@@@@@@@@@@@@@@
+                            @@@@@@@@@@@@@@@@@@@@@        @@@@@
+                           @@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@
+                          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@
+                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@         @@@
+                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@
+                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@         @@@@
+                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                       @@@@@@@@@@@@@@   @@@@@@@@@@@@@@
+                        @@@@@@@@@@@@     @@@@@@@@@@@@
+                        @@@@@@@@@@@@     @@@@@@@@@@@@
+                        @@@@@@@@@@@       @@@@@@@@@@@
+                        @@@@@@@@@@@       @@@@@@@@@@@
+                         @@@@@@@@@@       @@@@@@@@@@@
+                          @@@@@@@@@       @@@@@@@@@@@@@                  @@@@
+                           @@@@@@@@       @@@@@@@@@@@@@@@              @@@@@@@
+                           @@@@@@@@       @@@@@@@@@@@@@@@@@@       @@@@@@@@@@@
+                           @@@@@@@@@     @@@@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@
+                           @@@@@@@@@     @@@@@@@@@  @@@@@@@@@@@@@@@@@@@@@@@@
+                            @@@@@ @@@   @@@ @@@@@     @@@@@@@@@@@@@@@@@@@@
+                              @               @          @@@@@@@@@@@@@@
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=210&section=header&text=MAYANK4CODE&fontSize=58&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Learning%20in%20public%20%7C%20DSA%20%C2%B7%20ML%20%C2%B7%20Web%20Dev&descAlignY=58&descSize=17&descColor=cbd5e1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=MAYANK4CODE&fontSize=54&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Learning%20in%20public%20%7C%20DSA%20%C2%B7%20ML%20%C2%B7%20Web%20Dev&descAlignY=58&descSize=17&descColor=cbd5e1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;Mayank4code;%24+building;AI+%2B+ML+%2B+DSA+prep+tools;%24+status;Shipping+one+small+project+at+a+time+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=70&color=58A6FF&vCenter=true&size=20&pause=1600"/>
 
@@ -70,7 +106,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mayank4code&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E" alt="Streak stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mayank4code&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E" alt="Streak stats"/>
 <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank4code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages"/>
 
 </div>
@@ -88,7 +124,7 @@
 
 </div>
 
-> Live cards — pulled straight from the GitHub API each time this page loads.
+> Live cards — pulled straight from the GitHub API each time this page loads. These are free, community-hosted image services (Vercel), so they can occasionally show broken for a few minutes under heavy traffic — a hard refresh (Ctrl+Shift+R) almost always fixes it.
 
 <br>
 
